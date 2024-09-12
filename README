@@ -1,5 +1,5 @@
 PRE-REQ
-NOTE: Node version v18 and node is required
+NOTE: Node version v18 and newer is required
 
 * Install Node/npm for Window
 1. Install node via https://nodejs.org/en/download/prebuilt-installer
