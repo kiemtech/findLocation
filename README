@@ -24,7 +24,7 @@ RUN COMMAND
 
 * User Inputs Examples
 1. Find location with city, stateCode: npm run find_locations "Westminster, CO"
-2. Find location with zipcode: "80234"
+2. Find location with zipcode: npm run find_locations "80234"
 3. Find lcoation with combination of city, stateCode and/or zipcode: npm run find_locations "Westminster, CO" "80234"
 4. Find location with multiple combinations or city, stateCode and/or zipCode: npm run find_locations "80234" "Denver, CO" "San Mateo, CA"
 
