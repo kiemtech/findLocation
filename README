@@ -1,0 +1,16 @@
+PRE-REQ
+1. Install node via https://nodejs.org/en/download/prebuilt-installer
+NOTE: To check if node/npm install, open terminal then node -v and npm -v
+2. Run command: npm i in terminal
+
+RUN COMMAND
+* To Run Test
+- npm test
+* To Run Utility Script
+- npm run find_locations <user inputs>
+* User Inputs Examples
+1. Find location with city, stateCode: npm run find_locations "Westminster, CO"
+2. Find location with zipcode: "80234"
+3. Find lcoation with combination of city, stateCode and/or zipcode: npm run find_locations "Westminster, CO" "80234"
+4. Find location with multiple combinations or city, stateCode and/or zipCode: npm run find_locations "80234" "Denver, CO" "San Mateo, CA"
+
