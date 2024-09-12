@@ -7,7 +7,7 @@ NOTE: Node version v18 and newer is required
 3. Open CL and run following commands
 - node -v
 NOTE: to check node version installed
-3. npm i
+- npm i
 
 * Instruction for MAC on Terminal
 1. In Termnial run following commands:
